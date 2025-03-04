@@ -11,7 +11,7 @@ Submitted in **[IEEE T-UFFC, 2025]**.
 
 ## Abstract Figure
 ```
-![alt text](https://github.com/wenbo524822927/CUT_Segmentation_and_beamforming//abstract_fig.png)
+![alt text](https://github.com/wenbo524822927/CUT_Segmentation_and_beamforming/blob/main/abstract_fig.png)
 ```
 
 ## Requirements
